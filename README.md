@@ -20,4 +20,5 @@ Backend part should be start on nodemon command.
 I have use library of JavaScript.
 
 ## Screenshots:
-![image](https://user-images.githubusercontent.com/82088006/178749333-2d13dc78-46db-4ee8-b699-5d5d1103a37e.png)
+![Screenshot 2022-10-12 191057](https://user-images.githubusercontent.com/82088006/195402235-dc3309f8-57d7-4862-8223-9373a1cf8550.jpg)
+
