@@ -11,6 +11,6 @@ I have use full stack technologoies.
 This project is divided on two parts:
 1. Frontend
 2. Backend
-Fronted part should be start on npm start command
-Backend part should be start on nodemon command
+Fronted part should be start on npm start command.
+Backend part should be start on nodemon command.
 I have use library of JavaScript.
